@@ -1,0 +1,1 @@
+const a={key:"v-37e92f66",path:"/lib/vue-class-validator.html",title:"vue-class-validator",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651563587e3,contributors:[{name:"hibana",email:"421786477@qq.com",commits:1}]},filePathRelative:"lib/vue-class-validator.md"};export{a as data};

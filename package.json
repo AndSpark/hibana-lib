@@ -5,6 +5,7 @@
 	"author": "hibana <421786477@qq.com>",
 	"license": "MIT",
 	"scripts": {
+		"prod": "vuepress build docs",
 		"docs:dev": "vuepress dev docs",
 		"docs:build": "vuepress build docs"
 	},

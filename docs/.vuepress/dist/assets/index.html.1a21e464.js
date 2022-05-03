@@ -1,0 +1,1 @@
+const a={key:"v-8daa1a0e",path:"/",title:"Hibana-Lib",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651563587e3,contributors:[{name:"hibana",email:"421786477@qq.com",commits:1}]},filePathRelative:"README.md"};export{a as data};

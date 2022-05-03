@@ -1,0 +1,1 @@
+const e={key:"v-3fe248dc",path:"/lib/vue-message.html",title:"vue-message",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651563587e3,contributors:[{name:"hibana",email:"421786477@qq.com",commits:1}]},filePathRelative:"lib/vue-message.md"};export{e as data};
