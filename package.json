@@ -1,0 +1,14 @@
+{
+	"name": "hibana-doc",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "hibana <421786477@qq.com>",
+	"license": "MIT",
+	"scripts": {
+		"docs:dev": "vuepress dev docs",
+		"docs:build": "vuepress build docs"
+	},
+	"devDependencies": {
+		"vuepress": "^2.0.0-beta.43"
+	}
+}
